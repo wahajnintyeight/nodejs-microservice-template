@@ -1,0 +1,11 @@
+{
+  "otpLength": 6,
+  "expiresIn": 300,
+  "cleanupInterval": 3600,
+  "sendSMS": false,
+  "sendEmail": true,
+  "emailConfig": {
+    "from": "noreply@example.com",
+    "subject": "Your OTP Code"
+  }
+} 
